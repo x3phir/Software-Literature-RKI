@@ -1,11 +1,5 @@
 # NELAYAR (nelayar-gis)
 
-> Laporan dibuat berdasarkan aturan anti-asumsi: setiap klaim faktual diberi status evidence **[CONFIRMED]** (ada sumber langsung di kode/repo), **[INDICATED]** (indikasi kuat/evidence tidak langsung), atau **[UNKNOWN]** (tidak dapat diverifikasi).
->
-> **Catatan penting:** Berbeda dari Marisikan (produk komersial tertutup), `nelayar-gis` adalah **repository open-source publik** di GitHub (`brianabdl/nelayar-gis`). Seluruh klaim dalam laporan ini dapat dilacak ke kode sumber—ini keunggulan sekaligus perbedaan metodologi: evidence level [CONFIRMED] di sini berarti "terbaca langsung dari kode/repo", bukan sekadar klaim pemasaran.
->
-> **Repo di-kloning ke direktori kerja lokal** `C:\Users\Harri Supriadi\AppData\Local\Temp\opencode\nelayar-gis` (branch `master`, clone dangkal). Nomor baris file yang dikutip mengacu pada kondisi repo saat analisis.
-
 ---
 
 ## 1. Profil Software
